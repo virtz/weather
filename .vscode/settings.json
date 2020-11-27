@@ -1,0 +1,39 @@
+{
+    "[dart]": {
+
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false,
+        "editor.suggest.insertMode": "replace"
+    },
+    "dart.analyzerInstrumentationLogFile": null,
+    "dart.analyzerSshHost": null,
+    "dart.devToolsLogFile": null,
+    "dart.env": {
+
+    
+    },
+    "dart.extensionLogFile": null,
+    "dart.flutterCreateOrganization": null,
+    "dart.flutterDaemonLogFile": null,
+    "dart.flutterRunLogFile": null,
+    "dart.flutterSdkPath": null,
+    "dart.flutterTestLogFile": null,
+    "dart.pubTestLogFile": null,
+    "dart.vmServiceLogFile": null,
+    "dart.allowTestsOutsideTestFolder": true,
+    "dart.flutterScreenshotPath": null,
+    "dart.previewFlutterUiGuides": true,
+    "flutterStylizer.memberOrdering": [
+    
+        "public-constructor",
+        "named-constructors",
+        "public-static-variables",
+        "public-instance-variables",
+        "private-static-variables",
+        "private-instance-variables",
+        "public-override-methods",
+        "public-other-methods",
+        "build-method"
+    ]
+}
